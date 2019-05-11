@@ -1,0 +1,1 @@
+新增的 test.txt 文件, GZJack 的 github 上 fork 并没有此文件 和 sheng.js 文件, 需要 GZJack 在 sheng.js 完成一些 一个属性 price 两个方法setPrice和getPrice
